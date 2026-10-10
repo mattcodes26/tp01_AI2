@@ -1,0 +1,35 @@
+TP1 - Le reseau du metro de Montreal
+Graphes, Dijkstra, et un premier modele
+
+  TP1_Enonce.pdf      l'enonce : lisez-le EN ENTIER d'abord
+  TP1_depart.ipynb    le carnet a completer
+  donnees/metro_montreal.csv   69 liens entre stations voisines
+  donnees/stations.csv         68 stations, leur ligne, correspondance
+
+Le dossier donnees/ doit rester a cote du carnet.
+
+INSTALLATION
+    pip install scikit-learn notebook graphviz
+plus le logiciel Graphviz (graphviz.org/download) pour les dessins.
+
+SEUL OU EN EQUIPE DE 2
+Une equipe remet UN SEUL carnet et indique a la fin qui a fait quoi.
+
+CE QUI N'EST PAS DANS VOS REPONSES : 20 POINTS
+  10 pts  qualite du carnet (section 3 de l'enonce)
+  10 pts  utilisation de Git (section 4). La nomenclature des branches
+          et des messages de commit doit respecter ce qu'on a vu en
+          cours.
+
+CHAQUE QUESTION SE TERMINE PAR UNE OBSERVATION
+Y compris les questions de programmation : 16 cellules d'observation,
+une apres chaque question. Elles valent 6 points, et la partie 8 en
+vaut 15.
+
+INTELLIGENCE ARTIFICIELLE
+Permise POUR APPRENDRE, pas pour produire votre travail. Interdit de
+coller l'enonce ou les donnees dans une conversation avec une IA. La
+derniere section du carnet est une declaration obligatoire avec le
+lien de partage de vos conversations. Voir la section 5 de l'enonce.
+
+Avant de remettre : Kernel > Redemarrer et tout executer.

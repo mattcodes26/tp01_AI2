@@ -1,0 +1,70 @@
+station_a,station_b,ligne,minutes
+Angrignon,Monk,verte,3
+Monk,Jolicoeur,verte,2
+Jolicoeur,Verdun,verte,2
+Verdun,De l'Eglise,verte,2
+De l'Eglise,LaSalle,verte,2
+LaSalle,Charlevoix,verte,2
+Charlevoix,Lionel-Groulx,verte,2
+Lionel-Groulx,Atwater,verte,2
+Atwater,Guy-Concordia,verte,1
+Guy-Concordia,Peel,verte,1
+Peel,McGill,verte,1
+McGill,Place-des-Arts,verte,1
+Place-des-Arts,Saint-Laurent,verte,1
+Saint-Laurent,Berri-UQAM,verte,1
+Berri-UQAM,Beaudry,verte,1
+Beaudry,Papineau,verte,2
+Papineau,Frontenac,verte,2
+Frontenac,Prefontaine,verte,2
+Prefontaine,Joliette,verte,2
+Joliette,Pie-IX,verte,2
+Pie-IX,Viau,verte,2
+Viau,Assomption,verte,3
+Assomption,Cadillac,verte,2
+Cadillac,Langelier,verte,2
+Langelier,Radisson,verte,3
+Radisson,Honore-Beaugrand,verte,2
+Cote-Vertu,Du College,orange,3
+Du College,De la Savane,orange,2
+De la Savane,Namur,orange,3
+Namur,Plamondon,orange,2
+Plamondon,Cote-Sainte-Catherine,orange,2
+Cote-Sainte-Catherine,Snowdon,orange,3
+Snowdon,Villa-Maria,orange,2
+Villa-Maria,Vendome,orange,3
+Vendome,Place-Saint-Henri,orange,2
+Place-Saint-Henri,Lionel-Groulx,orange,2
+Lionel-Groulx,Georges-Vanier,orange,2
+Georges-Vanier,Lucien-L'Allier,orange,2
+Lucien-L'Allier,Bonaventure,orange,1
+Bonaventure,Square-Victoria,orange,1
+Square-Victoria,Place-d'Armes,orange,1
+Place-d'Armes,Champ-de-Mars,orange,1
+Champ-de-Mars,Berri-UQAM,orange,2
+Berri-UQAM,Sherbrooke,orange,2
+Sherbrooke,Mont-Royal,orange,2
+Mont-Royal,Laurier,orange,1
+Laurier,Rosemont,orange,2
+Rosemont,Beaubien,orange,2
+Beaubien,Jean-Talon,orange,2
+Jean-Talon,Jarry,orange,3
+Jarry,Cremazie,orange,2
+Cremazie,Sauve,orange,2
+Sauve,Henri-Bourassa,orange,3
+Henri-Bourassa,Cartier,orange,3
+Cartier,De la Concorde,orange,3
+De la Concorde,Montmorency,orange,3
+Snowdon,Cote-des-Neiges,bleue,3
+Cote-des-Neiges,Universite-de-Montreal,bleue,2
+Universite-de-Montreal,Edouard-Montpetit,bleue,3
+Edouard-Montpetit,Outremont,bleue,3
+Outremont,Acadie,bleue,3
+Acadie,Parc,bleue,3
+Parc,De Castelnau,bleue,1
+De Castelnau,Jean-Talon,bleue,2
+Jean-Talon,Fabre,bleue,2
+Fabre,D'Iberville,bleue,2
+D'Iberville,Saint-Michel,bleue,2
+Berri-UQAM,Jean-Drapeau,jaune,3
+Jean-Drapeau,Longueuil,jaune,3
